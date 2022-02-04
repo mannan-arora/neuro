@@ -4,7 +4,7 @@
 <img src="https://i.ibb.co/hycmyB2/neuro.png" width="640" height="360">
 
 
-Neuro is a face mask detector that utilizes a Deep Neural Network (Convolutional Neural Network / CNN) to differentiate between images of people with and without face masks. The CNN achieves an accuracy of **98%** on the training set and a **97%** accuracy on the test set. The stored weights of this CNN are then used to classify between *mask* or *no mask* in real time with OpenCV. The data used can be d
+Neuro is a face mask detector that utilizes a Deep Neural Network (Convolutional Neural Network / CNN) to differentiate between images of people with and without face masks. The CNN achieves an accuracy of **98%** on the training set and a **97%** accuracy on the test set. The stored weights of this CNN are then used to classify between *mask* or *no mask* in real time with OpenCV.
 
 Main Functionalities:
 * Multiple faces (with/without face masks) can be detected at the same time.
